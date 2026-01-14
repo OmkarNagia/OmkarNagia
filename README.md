@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Omkar%20Nagia&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Senior%20Android%20Developer%20|%20Kotlin%20|%20Jetpack%20Compose&descAlignY=65)
+
 # Hi 👋 I'm Omkar Nagia
 
 **Senior Android Developer | Kotlin | Jetpack Compose | Clean Architecture**
@@ -29,6 +31,13 @@ Focused on Jetpack Compose, MVVM/MVI, clean architecture, performance and stabil
 - **Penske Service Provider App** (50K+ downloads)
 
 ---
+
+## 📊 GitHub Stats
+
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarNagia&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarNagia&layout=compact&theme=tokyonight)
+
 
 ## 📫 Contact
 📧 mkrnagia01@gmail.com  

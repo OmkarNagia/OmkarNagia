@@ -32,4 +32,4 @@ Focused on Jetpack Compose, MVVM/MVI, clean architecture, performance and stabil
 
 ## 📫 Contact
 📧 mkrnagia01@gmail.com  
-💼 LinkedIn: ([apna LinkedIn link yahan paste karo](https://www.linkedin.com/in/omkarnagia/))
+💼 LinkedIn: ([https://www.linkedin.com/in/omkarnagia/])

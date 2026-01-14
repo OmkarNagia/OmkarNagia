@@ -34,9 +34,10 @@ Focused on Jetpack Compose, MVVM/MVI, clean architecture, performance and stabil
 
 ## 📊 GitHub Stats
 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarNagia&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmkarNagia&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarNagia&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmkarNagia&theme=github_dark)
+
 
 
 ## 📫 Contact
